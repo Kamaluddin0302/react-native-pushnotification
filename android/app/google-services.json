@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "900349086817",
+    "firebase_url": "https://pushnotification-aeb87.firebaseio.com",
+    "project_id": "pushnotification-aeb87",
+    "storage_bucket": "pushnotification-aeb87.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:900349086817:android:a134a4b0c451cb0dfc2e20",
+        "android_client_info": {
+          "package_name": "com.awesomeproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "900349086817-c057n880onrd5bimnqpt5olfl93hop5g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBzZHtXRJjXULCwSH66B4DJ9THe-YSTfOY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "900349086817-c057n880onrd5bimnqpt5olfl93hop5g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
